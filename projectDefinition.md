@@ -5,16 +5,14 @@
 #### Task Analysis
 * Create Account
 * Login
-* Logout
-<p>&nbsp;</p>
+* Logout  
 
-* Munter Calculation
-<p>&nbsp;</p>
+* Munter Calculation  
 
 * Create a Tour Plan
 * Read Tour Plans
 * Update a Tour Plan
-* Delete a Tour Plan
+* Delete a Tour Plan  
 
 #### User Persona
 * Outdoorsy person of any age that wants to know how long a tour will take.
