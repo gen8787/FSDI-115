@@ -1,7 +1,7 @@
 # Tour Planner App
 
 ### An app that lets a user plan how long an outing will take depending on what type of terrain they are in.
-<p>&nbsp;</p>
+&nbsp;
 
 #### Task Analysis
 * Create Account  
