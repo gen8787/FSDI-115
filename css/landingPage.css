@@ -1,0 +1,30 @@
+/* G L O B A L */
+body {
+    background-image: url(/img/topo-bg.jpg);
+}
+
+.container {
+    min-height: 85vh;
+    margin-top: 5rem;
+}
+
+
+/* S P E C I F I C */
+.nav-log {
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.g-font {
+    font-family: 'Oswald', sans-serif;
+}
+
+.container h1 {
+    background-color: #222529b7;
+    height: 25rem;
+}
+
+/* F O O T E R */
+footer {
+    min-height: 15vh;
+}
