@@ -9,7 +9,8 @@
 <p>&nbsp;</p>
 
 * Munter Calculation
-&nbsp;
+<p>&nbsp;</p>
+
 * Create a Tour Plan
 * Read Tour Plans
 * Update a Tour Plan
