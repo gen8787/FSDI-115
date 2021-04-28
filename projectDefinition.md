@@ -3,18 +3,18 @@
 ### An app that lets a user plan how long an outing will take depending on what type of terrain they are in.
 
 #### Task Analysis
-* Create Account  
-* Login  
-* Logout  
+* Create Account
+* Login
+* Logout
 &nbsp;
 
-* Munter Calculation  
+* Munter Calculation
 &nbsp;
 
-* Create a Tour Plan  
-* View Tour Plans  
-* Edit a Tour Plan  
-* Delete a Tour Plan  
+* Create a Tour Plan
+* Read Tour Plans
+* Update a Tour Plan
+* Delete a Tour Plan
 &nbsp;
 
 #### User Persona
